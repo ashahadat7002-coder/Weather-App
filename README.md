@@ -13,7 +13,7 @@ The application fetches live weather data from the **WeatherAPI** and dynamicall
 
 Example:
 
-![Weather App Screenshot](assets/screenshots/weather-app.png)
+![Weather App](weather-app.png)
 
 ---
 
